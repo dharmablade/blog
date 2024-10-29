@@ -1,4 +1,4 @@
-baseURL = 'https://cybercyte.github.io/'
+baseURL = 'https://dharmablade.github.io/'
 languageCode = 'ru'
 title = 'Блог для проекта'
 theme = "hugo-theme-nightfall"
@@ -6,7 +6,7 @@ theme = "hugo-theme-nightfall"
 [params]
 author = "Добро пожаловать!"
 user = "hello"
-hostname = "cybercyte.github.io"
+hostname = "dharmablade.github.io"
 footerHtml = 'Матвей Журавлев, Built with <a href="https://gohugo.io" class="footerLink">Hugo</a> and <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> theme'
 
 [menu]
